@@ -1,1 +1,1 @@
-# WIndowsUTM-Apple-Silicon
+# WindowsUTM-Apple-Silicon
